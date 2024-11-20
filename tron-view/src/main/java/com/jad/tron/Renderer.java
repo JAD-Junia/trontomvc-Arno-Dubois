@@ -1,5 +1,9 @@
 package com.jad.tron;
 
+import com.jad.tron.ICharMatrix;
+import com.jad.tron.IRenderer;
+import com.jad.tron.ITextDisplay;
+
 public class Renderer implements IRenderer {
     private final ITextDisplay display;
     private ICharMatrix matrix = null;
