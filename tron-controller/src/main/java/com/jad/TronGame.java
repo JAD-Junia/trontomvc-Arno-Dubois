@@ -1,4 +1,6 @@
-package com.jad.tron;
+package com.jad;
+
+import com.jad.tron.*;
 
 import java.util.ArrayList;
 import java.util.List;

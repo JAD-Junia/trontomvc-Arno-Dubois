@@ -1,5 +1,8 @@
-package com.jad.tron;
+package com.jad;
 
+import com.jad.tron.IGrid;
+import com.jad.tron.ILightCycle;
+import com.jad.tron.IPlayer;
 import lombok.Getter;
 import lombok.Setter;
 
